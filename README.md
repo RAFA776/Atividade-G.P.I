@@ -3,7 +3,7 @@ Corrida | Previsão | Status | Histórico
 ---|---|---|---|
 Começo | 14/03/2025 | ✅ Concluído | [Kickoff.pdf](https://github.com/user-attachments/files/20964758/Kickoff.pdf) |
 Corrida 01 | 08/04/2025  | ✅ Concluído | [API (1).xlsx](https://github.com/user-attachments/files/20964679/API.1.xlsx) |
-Corrida 02 | 09/04/2025 |  ✅ Concluído | [API 2 (1).xlsx](https://github.com/user-attachments/files/20964689/API.2.1.xlsx) | 
+Corrida 02 | 09/06/2025 |  ✅ Concluído | [API 2 (1).xlsx](https://github.com/user-attachments/files/20964689/API.2.1.xlsx) | 
 
 ### Orientação: 
 - Orientador: Professor Mestre Carlos Eduardo Bastos
